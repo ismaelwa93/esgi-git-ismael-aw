@@ -33,4 +33,11 @@ ensuite une fois qu'une personne fini une partie, par exemple l'intro qui a ét�
 	git commit -m "nom du commit"
 	git push
 
+il arrive qu'on ait des conflits dans les fichiers lors de l'utilisation de la commande merge, dans ce cas de figure on doit ouvrir le fichier en question supprimer ce que l'on veut supprimer et garder ce que l'on veut garder ensuite on utilise la commande suivante pour continuer le merge :
+
+
+	git merge --continue
+
+
+après il arrive qu'il demande de taper la commande git pull
 
