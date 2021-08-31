@@ -6,6 +6,7 @@ une branche develop où les features seront ajouté
 deux branches features ou Ismaël et Alpha vont developper les fonctionnalités
 
 MODE DE TRAVAIL :
+
 Chaque personne travail dans sa propre Branche, pour ensuite mettre dans la branche develop pour fusionner tous les travaux ensuite on le vérifie et on merge avec le document qui est dans le main.
 
 pour créer les branches nous utilisons les commandes :
