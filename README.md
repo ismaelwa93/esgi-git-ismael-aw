@@ -18,6 +18,9 @@ du coté d'Alpha il va devoir initialiser le projet ainsi que le recuperer:
 
         git remote add origin https://github.com/ismaelwa93/esgi-git-ismael-aw.git
         git clone https://github.com/ismaelwa93/esgi-git-ismael-aw.git
+pour également recuperer les branche :
+
+        git fetch -all
 
 Ismael et Alpha se place chacun dans leur branche feature pour commencer a travailler :
 
