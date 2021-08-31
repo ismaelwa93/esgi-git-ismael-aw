@@ -25,6 +25,7 @@ Ismael et Alpha se place chacun dans leur branche feature pour commencer a trava
 
 chaque personne travail dans sa propre branche, on se deplace en utilisant la commande :
 	git checkout <nom-de-la-branche>
+
 ensuite une fois qu'une personne fini une partie, par exemple l'intro qui a été fait par Ismël, elle le met dans sa branche ensuite la fusionne avec la branche Develop pour cela :
 	
 	git add .
