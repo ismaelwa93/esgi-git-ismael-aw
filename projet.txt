@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 projet super important qui depend de la survie du monde 
+=======
+premeiere version d'un projet super important 
+>>>>>>> 2412caf278801ecb1450c419e49ed02dfaa4cc67
